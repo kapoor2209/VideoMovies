@@ -7,3 +7,12 @@ C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\RecordofRentalMovie
 C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.csproj.GenerateResource.Cache
 C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.exe
 C:\Users\Jai Shree Ram\Documents\Visual Studio 2015\Projects\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.pdb
+C:\RecordofRentalMovies\RecordofRentalMovies\bin\Debug\RecordofRentalMovies.exe.config
+C:\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.exe
+C:\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.pdb
+C:\RecordofRentalMovies\RecordofRentalMovies\bin\Debug\RecordofRentalMovies.exe
+C:\RecordofRentalMovies\RecordofRentalMovies\bin\Debug\RecordofRentalMovies.pdb
+C:\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.csprojResolveAssemblyReference.cache
+C:\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.Form1.resources
+C:\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.Properties.Resources.resources
+C:\RecordofRentalMovies\RecordofRentalMovies\obj\Debug\RecordofRentalMovies.csproj.GenerateResource.Cache

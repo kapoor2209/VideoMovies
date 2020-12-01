@@ -13,14 +13,11 @@ namespace RecordofRentalMovies
 {
     public partial class Form1 : Form
     {
-
-        //  SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Hp\Documents\ourdata.mdf;Integrated Security=True;Connect Timeout=30;");
-
-
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\Mydata.mdf;Integrated Security=True;Connect Timeout=30;");
+        
+        SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename= " + Application.StartupPath + "\\Mydata.mdf;Integrated Security = True; Connect Timeout = 30;");
         SqlCommand cmd;
         SqlDataAdapter adapt;
-        //ID variable used in Updating and Deleting Record
+       
         int ID = 0;
         public Form1()
         {
